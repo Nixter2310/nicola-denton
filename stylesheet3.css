@@ -1,0 +1,728 @@
+@media screen and (max-width: 1440px) {
+    /*Home*/
+    .hero-text h1 {
+        font-size: 90px!important;
+        line-height: 20px;
+    }
+    .hero-text {
+        line-height: 35px;
+    }
+    .hero-text h3 {
+        font-size: 25px;
+    }
+    ul {
+        font-size: 22px;
+    }
+    #about_img {
+        margin-left: 150px;
+        margin-top: 120px;
+    }
+    #about_img img {
+        height: 420px;
+        width: 420px;
+    }
+    #about_text {
+        width: 45%;
+        height: 350px;
+         margin-right: 150px;
+        margin-top: 120px;
+        padding: 36px;
+    }
+    #about_text h2, #home_contact h2 {
+        font-size: 50px;
+    }
+    #about_text p {
+        margin: 20px 29px;
+    }
+    p {
+        font-size: 20px;
+         line-height: 33px;
+    }
+    #can_do_intro h2 {
+        font-size: 50px;
+    }
+    #can_do_intro p {
+        padding-left: 180px;
+        padding-right: 180px;
+    }
+    .can_do_row {
+        margin-left: 75px;
+    }
+    .can_do_column img {
+        height: 370px;
+        width: 370px;
+    }
+    #can_do_1, #can_do_2, #can_do_3 {
+        width: 60%;
+        padding: 52px;
+    }
+    #can_do_1 h3, #can_do_2 h3, #can_do_3 h3 {
+        font-size: 40px;
+        margin: 0 -10px;
+    }
+    #can_do_1 p, #can_do_2 p, #can_do_3 p {
+        margin: 35px -5px;
+    }
+    #quote_1 h3 {
+        padding: 85px 100px 40px 100px;
+    }
+    #quote_1 p, #quote_2 p, #quote_3 p {
+        font-size: 20px!important;
+    }
+    #home_contact p {
+        font-size: 20px;
+        padding: 0 180px 50px 180px;
+    }
+    .container, input[type=submit]:hover, input[type=submit], input[type=text], select, textarea {
+        font-size: 20px;
+    }
+    .footer p {
+        font-size: 15px;
+    }
+    /*Experience*/
+    table {
+        width: 85%;
+    }
+    #contact_text h3 {
+        font-size: 20px;
+    }
+    #contact_text button {
+        font-size: 22px;
+    }
+
+    /*Education*/
+    .edu_row_1 {
+        margin-left: 70px;
+        margin-right: 70px;
+    }
+    .edu_row_2 {
+        margin-left: 70px;
+        margin-right: 70px;
+        margin-top: 70px;
+    }
+    #edu_1 h3, #edu_2 h3, #edu_3 h3, #edu_4 h3, #edu_5 h3, #edu_6 h3 {
+        font-size: 35px;
+    }
+    /*Interests*/
+    #int_1_img, #int_2_img, #int_3_img, #int_4_img {
+        margin-left: 150px;
+        margin-top: 100px;
+    }
+    #int_1_img img, #int_2_img img, #int_3_img img, #int_4_img img {
+        height: 420px;
+        width: 420px;
+    }
+    #int_1_text h3, #int_2_text h3, #int_3_text h3, #int_4_text h3 {
+        font-size: 40px;
+    }
+    #int_1_text p, #int_2_text p, #int_3_text p, #int_4_text p {
+        font-size: 20px;
+        line-height: 33px;
+    }
+    #int_1_text, #int_2_text, #int_3_text, #int_4_text {
+        width: 45%;
+        height: 350px;
+          margin-right: 150px;
+        margin-top: 100px;
+        padding: 35px;
+    }
+    /*Contact*/
+    #contact_intro p, #socials_2 p {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 1360px) {
+    /*Home*/
+    ul {
+        font-size: 20px;
+        margin-left: 40px;
+        padding-top: 40px;
+    }
+    .hero-text h1 {
+        font-size: 82px!important;
+        line-height: 15px;
+    }
+    .hero-text h3 {
+        font-size: 23px;
+    }
+    #about_img {
+        margin-left: 120px;
+    }
+    #about_text {
+        margin-right: 121px;
+        width: 49%;
+        padding: 26px;
+    }
+    #about_img img {
+        height: 400px;
+        width: 400px;
+    }
+    p {
+        line-height: 32px;
+    }
+    .can_do_column img {
+        height: 350px;
+        width: 350px;
+    }
+    #can_do_1, #can_do_2, #can_do_3 {
+        width: 59%;
+    }
+    #can_do_1 p, #can_do_2 p, #can_do_3 p {
+        margin: 35px -8px;
+    }
+    #can_do_1 h3, #can_do_2 h3, #can_do_3 h3 {
+        font-size: 35px;
+    }
+    #quote_1 h3 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+    .footer p {
+        padding: 7px;
+    }
+    /*Experience*/
+    table {
+           font-size: 18px;
+        line-height: 30px;
+    }
+    #quote_2 h3, #quote_3 h3 {
+        font-size: 33px;
+            line-height: 50px;
+             padding: 100px 90px 40px 90px;
+        }
+    #contact_text button {
+        font-size: 20px;
+    }
+    /*Education*/
+    .edu_row_1, .edu_row_2 {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    /*Interests*/
+    #int_1_img img, #int_2_img img, #int_3_img img, #int_4_img img {
+        height: 350px;
+        width: 350px;
+    }
+    #int_1_img, #int_2_img, #int_3_img, #int_4_img {
+        margin-left: 130px;
+    }
+    #int_1_text, #int_2_text, #int_3_text, #int_4_text {
+        width: 51%;
+        height: 301px;
+        margin-right: 136px;
+        padding: 25px;
+    }
+}
+
+@media screen and (max-width: 1024px) and (max-height: 768px) and (orientation: landscape) {
+    /*Home*/
+    .hero-text {
+   width: 100%;
+    }
+    .hero-text h1 {
+        font-size: 85px!important;
+    }
+    #about_img img {
+        height: 352px;
+        width: 330px;
+    }
+    #about_img {
+        margin-left: 70px;
+        margin-top: 100px;
+    }
+    #about_text {
+        margin-right: 70px;
+        margin-top: 100px;
+        width: 49%;
+        height: 300px;
+    }
+    #about_text h2 {
+        font-size: 45px;
+        margin: 0 15px;
+    }
+    #can_do_intro h2, #home_contact h2 {
+        font-size: 45px;
+    }
+    p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #about_text p {
+        margin: 20px 18px;
+    }
+    #can_do_intro {
+        margin-top: 80px;
+    }
+    #can_do_intro p {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    .can_do_column {
+        margin-bottom: 50px;
+    }
+    .can_do_column img {
+        height: 350px;
+        width: 330px;
+    }
+    .can_do_row {
+        margin-left: 70px;
+        display: inline-block;
+        margin-top: 80px;
+    }
+    #can_do_1, #can_do_2, #can_do_3 {
+        padding: 50px;
+        height: 250px;
+        float: right;
+        width: 47%;
+        margin-right: 70px;
+        margin-top: 0;
+    }
+    #can_do_1 h3, #can_do_2 h3, #can_do_3 h3 {
+        margin: -10px -10px;
+    }
+    button {
+        font-size: 18px;
+    }
+    #quote_1 {
+        margin-top: 50px;
+    }
+    #home_contact p {
+        font-size: 16px;
+        padding: 0 100px 50px 100px;
+    }
+    .container, input[type=submit]:hover, input[type=submit], input[type=text], select, textarea {
+        font-size: 18px;
+    }
+    .container {
+        width: 55%;
+    }
+    /*Experience*/
+    table {
+        font-size: 16px;
+        line-height: 25px;
+        width: 87%;
+    }
+    #quote_2 h3 {
+        font-size: 30px;
+        line-height: 45px;
+        padding: 75px 70px 40px 70px;
+    }
+    #contact_text h3 {
+        font-size: 18px;
+        padding: 0 100px 0 100px;
+    }
+    #quote_2, #quote_3 {
+        margin-top: 10px;
+    }
+    /*Education*/
+    .edu_row_1, .edu_row_2 {
+        display: inline-block;
+    }
+    .edu_row_1 {
+        margin-top: 70px;
+    }
+    .edu_row_2 {
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+    #edu_1, #edu_2, #edu_3, #edu_4, #edu_5, #edu_6 {
+        padding: 40px 50px;
+        height: auto;
+    }
+#quote_3 h3 {
+        font-size: 30px;
+        line-height: 45px;
+        padding: 75px 90px 40px 90px;
+    }
+/*Interests*/
+    #int_1_img img, #int_2_img img, #int_3_img img, #int_4_img img {
+        height: 330px;
+        width: 330px;
+    }
+    #int_1_img, #int_2_img, #int_3_img, #int_4_img {
+        margin-left: 80px;
+        margin-top: 80px;
+    }
+    #int_1_text, #int_2_text, #int_3_text, #int_4_text {
+        width: 47%;
+        height: 280px;
+        margin-right: 82px;
+        padding: 25px;
+        margin-top: 80px;
+    }
+    #int_1_text h3, #int_2_text h3, #int_3_text h3, #int_4_text h3 {
+        font-size: 35px;
+    }
+    #int_1_text p, #int_2_text p, #int_3_text p, #int_4_text p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    /*Contact*/
+    #contact_intro p, #socials_2 p {
+        font-size: 16px;
+    }
+    #contact_intro p {
+        padding-left: 100px;
+        padding-right: 100px;
+        line-height: 25px;
+    }
+}
+@media screen and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
+    /*Home*/
+    .hero-image-home, .hero-image-edu, .hero-image-contact, .hero-image-exp, .hero-image-vol, .hero-image-interests {
+        height: 35%;
+    }
+    .hero-text h1 {
+        font-size: 80px!important;
+    }
+    .hero-text {
+        width: 100%
+    }
+    #about_img {
+        margin-left: 145px;
+        margin-top: 80px;
+    }
+    #about_text {
+        margin-right: 0;
+        width: 94%;
+        padding: 26px;
+        height: auto;
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+    #about_img img {
+        height: 90%;
+        width: 90%;
+    }
+    #about_text h2, #home_contact h2 {
+        font-size: 45px;
+        margin: 10px 26px;
+    }
+    p {
+        line-height: 32px;
+        font-size: 17px;
+    }
+    #can_do_intro h2, #home_contact h2 {
+        font-size: 45px;
+        text-align: left;
+        margin-left: 45px;
+    }
+    #can_do_intro p {
+        padding-left: 45px;
+        padding-right: 45px;
+        text-align: left;
+        margin-top: -10px;
+    }
+    .can_do_row {
+        display: inline-block;
+        margin-left: -5px;
+        margin-top: -20px;
+    }
+    .can_do_column img {
+        height: 450px;
+        width: 450px;
+        margin-left: 150px;
+        margin-top: 70px;
+    }
+    #can_do_1, #can_do_2, #can_do_3 {
+        width: 87%;
+        margin-top: 80px;
+        height: auto;
+    }
+    #can_do_1 p, #can_do_2 p, #can_do_3 p {
+        margin: 20px -8px;
+    }
+    #quote_1, #home_contact {
+        margin-top: 80px;
+    }
+    #quote_1 h3 {
+        text-align: left;
+    }
+    #home_contact p {
+        margin-top: 35px;
+        padding-left: 45px;
+        padding-right: 45px;
+        text-align: left;
+    }
+    .container {
+        width: 70%;
+    }
+    #contact_text button {
+        font-size: 17px;
+    }
+    /*Experience*/
+    table {
+        width: 87%;
+        margin: 80px auto;
+    }
+    td {
+        line-height: 25px;
+        font-size: 17px;
+    }
+    #contact_text {
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+    #contact_text h3 {
+        font-size: 17px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    #quote_2 h3 {
+        font-size: 30px;
+        line-height: 48px;
+        padding: 90px 90px 40px 90px;
+        text-align: left;
+    }
+    #quote_1 p, #quote_2 p, #quote_3 p {
+        font-size: 17px!important;
+        text-align: right;
+        padding-right: 80px;
+    }
+    #contact_text button {
+        font-size: 17px;
+    }
+    .edu_row_1, .edu_row_2 {
+        display: inline-block;
+    }
+    .edu_row_1 {
+        margin-top: 70px;
+    }
+    .edu_row_2 {
+        margin-top: 30px;
+        margin-bottom: -20px;
+    }
+    #edu_1, #edu_2, #edu_3, #edu_4, #edu_5, #edu_6 {
+        padding: 40px 50px;
+        height: auto;
+    }
+    #quote_3 h3 {
+        font-size: 30px;
+        line-height: 48px;
+        padding: 75px 90px 40px 90px;
+        text-align: left;
+    }
+    /*Interests*/
+    #int_1_img img, #int_2_img img, #int_3_img img, #int_4_img img {
+        height: 450px;
+        width: 450px;
+    }
+    #int_1_img, #int_2_img, #int_3_img, #int_4_img {
+        margin-left: 150px;
+        margin-top: 70px;
+    }
+    #int_1_text, #int_2_text, #int_3_text, #int_4_text {
+        width: 94%;
+        margin-top: 80px;
+        margin-right: 0;
+        height: auto;
+    }
+    #int_1_text p, #int_2_text p, #int_3_text p, #int_4_text p {
+        font-size: 17px;
+        line-height: 32px;
+    }
+    #int_4_text {
+        margin-bottom: 50px;
+    }
+    /*Contact*/
+    #contact_intro p, #socials_2 p {
+        font-size: 17px;
+        line-height: 32px;
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    /*Home*/
+    .topnav a {
+        padding: 10px 10px;
+        font-size: 15px;
+    }
+    .fa {
+        padding: 12px;
+    }
+    .hero-image-home, .hero-image-edu, .hero-image-contact, .hero-image-exp, .hero-image-vol, .hero-image-interests {
+        height: 45%;
+    }
+    .hero-text {
+        line-height: 20px;
+        top: 48%;
+        width: 83%;
+    }
+    .hero-text h1 {
+        font-size: 50px!important;
+        line-height: 45px;
+    }
+    .hero-text h3 {
+        font-size: 15px;
+    }
+    #about_img {
+        margin-left: 0;
+        margin-top: 60px;
+    }
+    #about_img img {
+        height: 340px;
+        width: 98%;
+        margin-left: 3px;
+    }
+    #about_text {
+        margin-top: -5px;
+        padding: 15px;
+        margin-bottom: 60px;
+    }
+    #about_text h2, #can_do_intro h2, #home_contact h2 {
+        font-size: 35px;
+        margin: 10px 28px;
+    }
+    #about_text p, #can_do_intro p, #home_contact p {
+        margin: 20px 30px;
+    }
+    #can_do_intro p, #home_contact p {
+        padding: 0;
+    }
+    p {
+        line-height: 27px;
+        font-size: 15px;
+    }
+    .can_do_column img {
+        height: 340px;
+        width: 100%;
+        margin-left: 3px;
+    }
+    #can_do_1, #can_do_2, #can_do_3 {
+         width: 79%;
+        margin-top: -5px;
+        padding: 40px;
+    }
+    #can_do_1, #can_do_2 {
+        margin-bottom: -25px;
+    }
+    #can_do_1 h3, #can_do_2 h3, #can_do_3 h3 {
+        font-size: 30px;
+    }
+    button {
+        font-size: 15px;
+    }
+    #quote_1 h3 {
+        font-size: 25px;
+        line-height: 38px;
+        padding: 50px 30px 40px 30px;
+    }
+    #quote_1 p, #quote_2 p, #quote_3 p {
+        font-size: 13px!important;
+        padding-right: 30px;
+        padding-bottom: 50px;
+    }
+    #quote_1, #home_contact {
+        margin-top: 60px;
+    }
+    #home_contact p {
+        line-height: 27px;
+        font-size: 15px;
+    }
+    .container {
+        width: 75%;
+        margin-top: 40px;
+    }
+    .container, input[type=submit]:hover, input[type=submit], input[type=text], select, textarea {
+        font-size: 15px;
+    }
+    .footer p {
+        font-size: 12px;
+    }
+    /*Experience*/
+    td:nth-child(1) {
+        display: inline-block;
+        width: 95%;
+    }
+    td:nth-child(2) {
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+    td {
+        line-height: 25px;
+        font-size: 15px;
+    }
+    table {
+        margin: 40px auto;
+    }
+    #quote_2, #quote_3 {
+        margin-top: 0;
+    }
+    #quote_2 h3 {
+        font-size: 22px;
+        line-height: 35px;
+        padding: 50px 30px 40px 30px;
+    }
+    #contact_text h3 {
+        font-size: 13px;
+        padding-left: 20px;
+        padding-right: 20px;
+        line-height: 20px;
+    }
+    #contact_text button {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    /*Education*/
+    .edu_row_1 {
+        margin: 50px 0 0 0;
+        width: 100%;
+    }
+    .edu_row_2 {
+        margin: 20px 0 20px 0;
+        width: 100%;
+    }
+    #edu_1 h3, #edu_2 h3, #edu_3 h3, #edu_4 h3, #edu_5 h3, #edu_6 h3 {
+        font-size: 30px;
+    }
+    #edu_1, #edu_2, #edu_3, #edu_4, #edu_5, #edu_6 {
+        padding: 35px 40px;
+    }
+    #quote_3 h3 {
+        font-size: 17px;
+        line-height: 27px;
+        padding: 50px 30px 40px 30px;
+    }
+    /*Interests*/
+    #int_1_img, #int_2_img, #int_3_img, #int_4_img {
+        margin: 60px 0 0 0;
+    }
+    #int_1_img img, #int_2_img img, #int_3_img img, #int_4_img img {
+        height: 340px;
+        width: 98%;
+        margin-left: 3px;
+    }
+    #int_1_text h3, #int_2_text h3, #int_3_text h3, #int_4_text h3 {
+        font-size: 30px;
+        margin: 15px 30px;
+    }
+    #int_1_text p, #int_2_text p, #int_3_text p, #int_4_text p {
+        font-size: 15px;
+        line-height: 27px;
+        margin: 20px 30px;
+    }
+    #int_1_text, #int_2_text, #int_3_text, #int_4_text {
+        margin-top: -5px;
+    }
+    /*Interests*/
+    #contact_intro p, #socials_2 p {
+        font-size: 15px;
+        line-height: 27px;
+        padding-left: 30px;
+        padding-right: 30px;
+        text-align: left;
+    }
+    #socials_2 {
+        padding: 30px 7px;
+    }
+    #contact_intro {
+        margin-top: 60px;
+        margin-bottom: 50px;
+    }
+
+
+
+}

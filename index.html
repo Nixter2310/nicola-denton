@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nicola Denton</title>
+    <link rel="stylesheet" href="stylesheet1.css">
+    <link rel="stylesheet" href="stylesheet3.css">
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+       <link href="https://fonts.googleapis.com/css2?family=Kodchasan&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ </head>
+<div class="topnav" id="myTopnav">
+    <a href="index.html">Home</a>
+    <a href="experience.html">Experience</a>
+    <a href="education.html">Education</a>
+    <a href="volunteer.html">Volunteering</a>
+    <a href="interests.html">Interests</a>
+    <a href="contact.html">Contact</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+    </a>
+</div>
+<script>
+    function myFunction() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+            x.className += " responsive";
+        } else {
+            x.className = "topnav";
+        }
+    }
+</script>
+<a href="#top"><button class="top">Top</button></a>
+<body>
+
+<div class="hero-image-home">
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="experience.html">Experience</a></li>
+        <li><a href="education.html">Education</a></li>
+        <li><a href="voluntary.html">Volunteer Work</a></li>
+        <li><a href="interests.html">Interests</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
+    <div id="socials_1">
+        <ul>
+            <li><a href="mailto:ndentonmedia@gmail.com" class="fa fa-envelope" target="_blank"></a></li>
+            <li><a href="https://twitter.com/ndentonmedia/" class="fa fa-twitter" target="_blank"></a></li>
+            <li><a href="https://instagram.com/nicoladentonphoto/" class="fa fa-instagram" target="_blank"></a></li>
+            <li><a href="https://www.linkedin.com/in/nicola-denton/" class="fa fa-linkedin" target="_blank"></a></li>
+        </ul>
+    </div>
+    <div class="hero-text">
+        <h1>Nicola Denton</h1>
+        <h3>Photographer turned Web Developer</h3>
+    </div>
+</div>
+<div id="about_box">
+    <div id="about_img"><img src="site_images/me.jpg" alt="Nicola" height="450" width="450"/></div>
+    <div id="about_text">
+    <h2>About Me</h2>
+    <p>Hi I'm Nicola and I'm a web developer based in Liverpool, UK. After successfully completing an apprenticeship in web development last year, I'm now pursuing a career as a front-end web developer.
+        I also have great skills in digital marketing and content creation. Scroll on to learn more about me, get in touch or follow me on social media.</p>
+</div>
+</div>
+<div id="can_do_intro">
+    <h2>What I Can Do</h2>
+    <p>It's a bit cliché but I do consider myself to be a 'jack-of-all-trades' as I have great skills in many different areas.
+        I have lots of experience in digital marketing (specifically social media), content creation (photography, graphic design, writing and filmmaking) and even mentoring.
+        But my ambition is to become a professional front-end web developer.</p>
+</div>
+
+<div class="can_do_row">
+    <div class="can_do_column">
+    <img src="site_images/coding.jpg" width="472px" alt="girl coding"/>
+     <div id="can_do_1">
+            <h3>Web Development</h3>
+    <p>Proficient skills in HTML, CSS and WordPress plus basic skills in JS and PHP. I'm currently taking part in various online courses to practice and learn more.<br>
+         <button onclick="document.location='experience.html'">More</button></p>
+     </div>
+    </div>
+    <div class="can_do_column">
+        <img src="site_images/marketing.jpg" width="472px" alt="notes and tablet"/>
+    <div id="can_do_2">
+        <h3>Online Marketing</h3>
+        <p>Great skills in digital marketing and online promotion, specifically social media marketing.<br>
+        <button>More</button></p>
+    </div>
+    </div>
+    <div class="can_do_column">
+        <img src="site_images/content.png" width="472px" alt="camera"/>
+    <div id="can_do_3">
+        <h3>Content Creation</h3>
+        <p>Excellent skills in photography, graphic design, writing and filmmaking. I love being creative and photography is still one of my main hobbies.<br>
+        <button>More</button></p>
+    </div>
+        </div>
+</div>
+
+<div id="quote_1">
+    <h3>"Nicola was a pleasure to work with at Red Ninja, worked very hard on every project and was a valued member of the team.
+        It was great to see her blossom at our partner charity SOLA Arts too."</h3>
+    <p>- Lee Omar, CEO Red Ninja Studios</p>
+</div>
+
+<div id="home_contact">
+    <h2>Get in touch!</h2>
+    <p>If you'd like know more about me, see my work or request a copy of my CV then please get in touch. I will respond as soon as possible. Thanks!</p>
+</div>
+
+<div class="container">
+    <form action="action_page.php">
+
+        <label for="fname">First Name</label>
+        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+        <label for="lname">Last Name</label>
+        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+        <label for="country">Country</label>
+        <select id="country" name="country">
+            <option value="England">England</option>
+            <option value="Ireland">Ireland</option>
+            <option value="Scotland">Scotland</option>
+            <option value="Wales">Wales</option>
+            <option value="Other">Other</option>
+        </select>
+
+        <label for="subject">Subject</label>
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+        <input type="submit" value="Submit">
+
+    </form>
+</div>
+
+<div id="socials_2">
+    <a href="mailto:ndentonmedia@gmail.com" class="fa fa-envelope"></a>
+    <a href="https://twitter.com/ndentonmedia/" class="fa fa-twitter"></a>
+    <a href="https://instagram.com/nicoladentonphoto/" class="fa fa-instagram"></a>
+    <a href="https://www.linkedin.com/in/nicola-denton/" class="fa fa-linkedin"></a>
+</div>
+
+<div class="footer">
+    <p>Website by Nicola Denton 2021</p>
+</div>
+
+
+</body>
+</html>

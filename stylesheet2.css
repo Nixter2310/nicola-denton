@@ -1,0 +1,1627 @@
+@media screen and (max-width: 1536px) {
+    /*Home*/
+    .hero-text {
+        line-height: 35px;
+    }
+    .hero-text h1 {
+        font-size: 90px;
+    }
+    .hero-text h3 {
+        font-size: 25px;
+    }
+    ul {
+        font-size: 20px;
+    }
+    #socials_1 ul {
+        font-size: 23px;
+    }
+    #about_img img {
+        height: 410px;
+        width: 410px;
+    }
+    #about_text {
+        margin-right: 156px;
+        padding: 30px;
+        width: 49%;
+    }
+    #about_text h2 {
+        font-size: 50px;
+    }
+    p {
+        font-size: 20px;
+        line-height: 33px;
+    }
+    #about_img {
+        margin-left: 156px;
+    }
+    #can_do_intro h2 {
+        font-size: 50px;
+    }
+    #can_do_intro p {
+        font-size: 20px;
+        line-height: 33px;
+    }
+    .can_do_column img {
+        width: 84%;
+    }
+    .can_do_row {
+        margin-left: 80px;
+    }
+    #can_do_1 h3, #can_do_2 h3, #can_do_3 h3 {
+        margin-top: 0;
+    }
+    #quote_1 h3, #quote_2 h3, #quote_3 h3 {
+        font-size: 35px!important;
+        line-height: 50px!important;
+        padding: 75px 90px 40px 90px!important;
+    }
+    #quote_1 p, #quote_2 p, #quote_3 p {
+           font-size: 20px!important;
+    }
+    #home_contact {
+        margin-top: 60px;
+    }
+    #home_contact h2 {
+        font-size: 50px!important;
+    }
+    #home_contact p {
+        font-size: 20px!important;
+        line-height: 30px!important;
+    }
+    input[type=text], select, textarea {
+        font-size: 20px!important;
+    }
+    input[type=submit] {
+        font-size: 20px!important;
+    }
+    .container {
+        font-size: 20px;
+    }
+    .footer p {
+        font-size: 15px!important;
+    }
+    /*Experience*/
+    table {
+        width: 83%;
+    }
+    td {
+        line-height: 30px!important;
+        font-size: 20px!important;
+    }
+    #contact_text h3 {
+        font-size: 20px!important;
+    }
+    #contact_text button {
+        font-size: 20px!important;
+    }
+    /*Education*/
+    #edu_1, #edu_2, #edu_3, #edu_4, #edu_5, #edu_6 {
+        padding: 35px;
+        height: 400px!important;
+    }
+    #edu_1 h3, #edu_2 h3, #edu_3 h3, #edu_4 h3, #edu_5 h3, #edu_6 h3 {
+        font-size: 30px!important;
+        margin-top: 20px!important;
+    }
+    #edu_1 p, #edu_2 p, #edu_3 p, #edu_4 p, #edu_5 p, #edu_6 p {
+        font-size: 18px!important;
+        line-height: 25px!important;
+    }
+
+    /*Interests*/
+    #int_1_img img, #int_2_img img, #int_3_img img, #int_4_img img {
+        height: 350px!important;
+        width: 350px!important;
+    }
+    #int_1_img, #int_2_img, #int_3_img, #int_4_img {
+        margin-left: 198px!important;
+    }
+    #int_1_text, #int_2_text, #int_3_text, #int_4_text {
+        width: 48%!important;
+        margin-right: 200px!important;
+        height: 300px!important;
+    }
+    #int_1_text p, #int_2_text p, #int_3_text p, #int_4_text p {
+        font-size: 20px!important;
+        line-height: 30px!important;
+        margin: 15px 27px!important;
+    }
+    #int_1_text h3, #int_2_text h3, #int_3_text h3, #int_4_text h3 {
+        font-size: 35px!important;
+        margin: 20px 25px!important;
+    }
+    /*Contact*/
+    #contact_intro p {
+        font-size: 20px!important;
+        line-height: 35px!important;
+    }
+    #socials_2 p {
+        font-size: 20px!important;
+    }
+
+@media screen and (max-width: 1440px) {
+
+/*Home*/
+.hero-text {
+        line-height: 30px;
+    }
+.hero-text h1 {
+    font-size: 80px;
+}
+.hero-text h3 {
+    font-size: 25px;
+}
+ul {
+    font-size: 20px;
+}
+    #socials_1 ul {
+        font-size: 23px;
+    }
+.fa {
+        padding: 20px;
+        width: 25px;
+    }
+#about_img {
+   margin-left: 106px;
+    margin-top: 150px;
+    }
+#about_img img {
+    height: 430px;
+    width: 430px;
+}
+#about_text {
+    width: 50%;
+    margin-right: 112px;
+    margin-top: 150px;
+    padding: 35px;
+    height: 360px;
+}
+#about_text h2 {
+    font-size: 50px;
+    }
+#about_text p {
+    margin: 33px;
+}
+p {
+    font-size: 20px;
+    line-height: 33px;
+}
+#can_do_intro h2 {
+    font-size: 50px;
+    line-height: 30px;
+}
+#can_do_intro p {
+    font-size: 17px;
+    padding-left: 140px;
+    padding-right: 140px;
+    line-height: 35px;
+}
+.can_do_row {
+    margin-left: 70px;
+}
+.can_do_column img {
+    width: 85%;
+}
+#can_do_1, #can_do_2, #can_do_3 {
+    width: 65%;
+    padding: 45px;
+    height: 425px;
+}
+#can_do_1 h3, #can_do_2 h3, #can_do_3 h3 {
+    font-size: 35px;
+    margin-top: -5px;
+}
+#can_do_1 p, #can_do_2 p, #can_do_3 p {
+        font-size: 20px;
+    line-height: 30px;
+}
+button {
+    margin-top: 30px;
+}
+#quote_1 h3, #quote_2 h3, #quote_3 h3 {
+        font-size: 30px;
+        line-height: 45px;
+        padding: 80px 100px 25px 100px;
+    }
+#quote_1 p, #quote_2 p, #quote_3 p {
+    font-size: 20px;
+}
+
+input[type=text], select, textarea {
+        font-size: 20px;
+    }
+input[type=submit] {
+    font-size: 20px;
+}
+.container {
+    font-size: 20px;
+    width: 50%;
+color: white;
+    font-weight: bold;
+}
+.footer p {
+    font-size: 15px;
+}
+/*Experience*/
+table {
+    width: 83%;
+}
+td {
+    line-height: 30px;
+}
+    #contact_text h3 {
+        font-size: 20px;
+    }
+/*Education*/
+.edu_row_1, .edu_row_2 {
+        margin-left: 70px;
+        margin-right: 70px;
+    }
+ #edu_1, #edu_2, #edu_3, #edu_4, #edu_5, #edu_6 {
+        padding: 40px;
+        height: 430px;
+    }
+#edu_1 h3, #edu_2 h3, #edu_3 h3, #edu_4 h3, #edu_5 h3, #edu_6 h3 {
+    font-size: 30px;
+}
+#edu_1 p, #edu_2 p, #edu_3 p, #edu_4 p, #edu_5 p, #edu_6 p {
+    font-size: 20px;
+    line-height: 30px;
+}
+/*Interests*/
+    #int_1_text, #int_2_text, #int_3_text, #int_4_text {
+        width: 44%!important;
+        margin-right: 208px!important;
+        height: 300px!important;
+    }
+/*Contact*/
+#contact_intro {
+    margin-bottom: 70px;
+}
+ #contact_intro p, #socials_2 p {
+     font-size: 20px;
+     line-height: 30px!important;
+ }
+}
+
+@media screen and (max-width: 1366px) {
+/*Home*/
+    .hero-image-home, .hero-image-exp, .hero-image-edu, .hero-image-vol, .hero-image-interests, .hero-image-contact {
+        height: 60%;
+    }
+      ul {
+        margin-left: 25px;
+        font-size: 20px;
+    }
+    #socials_1 {
+        padding-right: 80px;
+        margin-top: 13px;
+        font-size: 23px;
+    }
+    #about_img {
+        margin-top: 130px;
+        margin-left: 114px;
+    }
+    #about_img img {
+        height: 405px;
+        width: 400px;
+    }
+    #about_text {
+        width: 51%;
+        margin-right: 115px;
+        padding: 20px;
+        height: 365px;
+        margin-top: 130px;
+    }
+    #about_text h2 {
+        font-size: 45px;
+        margin: 15px 30px;
+    }
+    #about_text p {
+        margin: 30px;
+        font-size: 20px;
+    }
+    #can_do_1, #can_do_2, #can_do_3 {
+        width: 65%;
+        padding: 43px;
+        height: 430px;
+    }
+    #can_do_intro h2 {
+        font-size: 45px;
+    }
+    #can_do_intro p {
+        font-size: 20px;
+    }
+    .can_do_column img {
+        width: 85.5%;
+    }
+    #quote_1 {
+        background-color: dodgerblue;
+        margin-top: 110px;
+    }
+    #quote_1 h3, #quote_2 h3, #quote_3 h3 {
+        font-size: 33px!important;
+        line-height: 50px!important;
+        padding: 65px 65px 25px 65px!important;
+    }
+    #quote_1 p, #quote_2 p, #quote_3 p {
+        font-size: 20px!important;
+    }
+       #home_contact {
+        margin-top: 60px;
+    }
+    #home_contact h2 {
+        font-size: 50px!important;
+    }
+    #home_contact p {
+        font-size: 20px!important;
+        padding-left: 180px;
+        padding-right: 180px;
+        line-height: 30px;
+    }
+    input[type=text], select, textarea {
+        font-size: 20px;
+    }
+    input[type=submit] {
+        font-size: 20px;
+    }
+    #socials_2 {
+        font-size: 25px;
+    }
+
+    /*Experience*/
+    table {
+        width: 85%;
+    }
+    td {
+        line-height: 25px;
+        font-size: 18px!important;
+    }
+    #contact_text h3 {
+        font-size: 20px!important;
+    }
+    #contact_text button {
+        font-size: 20px!important;
+    }
+
+    /*Education*/
+    #edu_1, #edu_2, #edu_3, #edu_4, #edu_5, #edu_6 {
+        padding: 35px;
+        height: 400px!important;
+    }
+    #edu_1 h3, #edu_2 h3, #edu_3 h3, #edu_4 h3, #edu_5 h3, #edu_6 h3 {
+        font-size: 30px!important;
+    }
+    #edu_1 p, #edu_2 p, #edu_3 p, #edu_4 p, #edu_5 p, #edu_6 p {
+        font-size: 20px!important;
+        line-height: 25px!important;
+    }
+    /*Interests*/
+    #int_1_img, #int_2_img, #int_3_img, #int_4_img {
+        margin-left: 152px!important;
+    }
+    #int_1_text, #int_2_text, #int_3_text, #int_4_text {
+        width: 48%!important;
+        margin-right: 158px!important;
+   }
+}
+
+@media screen and (max-width: 1360px) {
+/*Home*/
+.hero-text {
+        line-height: 30px;
+}
+.hero-text h1 {
+        font-size: 75px;
+}
+.hero-text h3 {
+        font-size: 23px;
+}
+ul {
+    font-size: 20px;
+    padding-top: 40px;
+}
+    #socials_1 ul {
+        font-size: 23px;
+    }
+#about_img {
+    margin-top: 120px;
+}
+#about_img img {
+    height: 400px;
+    width: 400px;
+}
+#about_text {
+    margin-top: 120px;
+    width: 50%;
+    height: 350px;
+    padding: 25px;
+}
+#about_text h2 {
+        font-size: 45px;
+    margin: 10px 25px;
+    }
+#about_text p {
+        margin: 25px 30px;
+    }
+p {
+ font-size: 18px;
+   line-height: 30px;
+    }
+ #can_do_intro p {
+        font-size: 20px;
+        padding-left: 130px;
+        padding-right: 130px;
+        line-height: 30px;
+    }
+ .can_do_column img {
+     width: 87%;
+ }
+    #can_do_1, #can_do_2, #can_do_3 {
+        width: 70.3%;
+        padding: 35px;
+        height: 435px;
+    }
+ #quote_1 {
+     margin-top: 100px;
+    padding-left: 90px;
+     padding-right: 90px;
+ }
+ #quote_1 h3, #quote_2 h3, #quote_3 h3 {
+     font-size: 30px;
+     line-height: 45px;
+ }
+#quote_1 p, #quote_2 p, #quote_3 p {
+        font-size: 20px;
+    }
+ #home_contact h2 {
+     font-size: 45px;
+ }
+ #home_contact p {
+        font-size: 20px;
+    }
+    input[type=text], select, textarea {
+        font-size: 20px;
+    }
+.footer p {
+    font-size: 15px;
+}
+/*Education*/
+ #edu_1, #edu_2, #edu_3, #edu_4, #edu_5, #edu_6 {
+      height: 450px;
+    }
+ /*Interests*/
+ #int_1_text, #int_2_text, #int_3_text, #int_4_text {
+        width: 54%;
+        height: 324px;
+     margin-right: 135px;
+    }
+
+ #int_1_text p, #int_2_text p, #int_3_text p, #int_4_text p {
+     line-height: 30px;
+ }
+    #int_1_img, #int_2_img, #int_3_img, #int_4_img {
+        margin-left: 149px!important;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+/*Home*/
+    #about_img img {
+        height: 370px;
+        width: 370px;
+    }
+    #about_img {
+        margin-left: 132px;
+    }
+    #about_text {
+        margin-right: 132px;
+        height: 326px;
+        padding: 22px;
+        width: 47%;
+    }
+    #about_text h2 {
+        font-size: 40px;
+        margin-top: 15px;
+    }
+    #about_text p {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    p {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    #can_do_intro h2 {
+        font-size: 40px;
+    }
+    #can_do_intro p {
+    font-size: 15px;
+    line-height: 28px;
+    }
+    #can_do_1, #can_do_2, #can_do_3 {
+        width: 70%;
+        padding: 35px;
+        height: 375px;
+    }
+    .can_do_row {
+        margin-left: 60px;
+    }
+    .can_do_column img {
+        width: 87.5%;
+    }
+    #can_do_1 p, #can_do_2 p, #can_do_3 p {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    #can_do_1 h3, #can_do_2 h3, #can_do_3 h3 {
+        font-size: 30px;
+        margin-top: 0;
+    }
+    button {
+        font-size: 17px;
+    }
+    #quote_1 h3, #quote_2 h3, #quote_3 h3 {
+        padding: 70px 70px 25px 70px;
+    }
+    #quote_1 p, #quote_2 p, #quote_3 p {
+        font-size: 15px;
+    }
+    #home_contact h2 {
+        font-size: 40px;
+    }
+    #home_contact p {
+        font-size: 15px;
+    }
+    .footer p {
+        font-size: 13px;
+    }
+    .container {
+        font-size: 17px;
+    }
+    input[type=text], select, textarea {
+        font-size: 17px;
+    }
+    input[type=submit] {
+        font-size: 17px;
+    }
+    /*Experience*/
+    td {
+        line-height: 25px!important;
+        font-size: 16px!important;
+    }
+    /*Education*/
+    #edu_1 p, #edu_2 p, #edu_3 p, #edu_4 p, #edu_5 p, #edu_6 p {
+        font-size: 17px!important;
+        line-height: 25px;
+    }
+    #edu_1 h3, #edu_2 h3, #edu_3 h3, #edu_4 h3, #edu_5 h3, #edu_6 h3 {
+        font-size: 25px!important;
+    }
+    /*Interests*/
+    #int_1_img img, #int_2_img img, #int_3_img img, #int_4_img img {
+        height: 330px!important;
+        width: 330px!important;
+    }
+    #int_1_text h3, #int_2_text h3, #int_3_text h3, #int_4_text h3 {
+        font-size: 30px;
+      }
+    #int_1_text p, #int_2_text p, #int_3_text p, #int_4_text p {
+        font-size: 16px!important;
+        line-height: 25px!important;
+    }
+    #int_1_img, #int_2_img, #int_3_img, #int_4_img {
+        margin-left: 127px!important;
+    }
+    #int_1_text, #int_2_text, #int_3_text, #int_4_text {
+        width: 49%!important;
+        height: 280px!important;
+        margin-right: 145px!important;
+        padding: 0;
+    }
+    /*Contact*/
+   #contact_intro p {
+        font-size: 17px;
+        line-height: 27px;
+    }
+   #socials_2 p {
+       font-size: 17px;
+       line-height: 27px;
+   }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+/*Home*/
+.hero-image-home, .hero-image-exp, .hero-image-edu, .hero-image-vol, .hero-image-interests, .hero-image-contact {
+        height: 45%;
+    }
+ul {
+    font-size: 15px;
+     padding-top: 30px;
+    margin-left: 20px;
+    }
+ li a {
+     padding: 8px 10px;
+ }
+#socials_1 {
+    padding-right: 70px;
+    margin-top: 0;
+}
+#socials_1 li {
+    font-size: 20px;
+}
+ .fa {
+     padding: 15px;
+     width: 25px;
+ }
+ .hero-text {
+     top: 48%;
+     left: 52%;
+     width: 60%;
+ }
+.hero-text h1 {
+     font-size: 65px;
+    }
+ .hero-text h3 {
+       font-size: 20px;
+ }
+ #about_text p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+#about_img {
+        margin-top: 100px;
+    margin-left: 78px;
+    }
+ #about_img img {
+        height: 330px;
+        width: 330px;
+ }
+#about_text {
+    margin-right: 83px;
+    margin-top: 100px;
+    width: 48%;
+    height: 290px;
+    padding: 20px;
+}
+#about_text h2 {
+        font-size: 35px;
+        margin: 6px 15px;
+    }
+ #about_text p {
+        margin: 15px 17px;
+    }
+p {
+   font-size: 15px!important;
+   line-height: 25px!important;
+    }
+#can_do_intro {
+    margin-top: 80px;
+}
+#can_do_intro h2 {
+        font-size: 40px!important;
+    }
+#can_do_intro p {
+        font-size: 15px!important;
+        padding-left: 80px;
+        padding-right: 80px;
+        line-height: 25px;
+    }
+.can_do_row {
+    margin-top: 70px;
+    margin-left: 45px;
+}
+ .can_do_column img {
+        width: 87%;
+    }
+#can_do_1, #can_do_2, #can_do_3 {
+    height: 400px;
+    width: 68%;
+    padding: 30px;
+}
+ #can_do_1 h3, #can_do_2 h3, #can_do_3 h3 {
+     font-size: 30px;
+     margin-top: 0;
+ }
+#can_do_1 p, #can_do_2 p, #can_do_3 p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+button {
+    font-size: 15px;
+}
+ #quote_1 {
+        margin-top: 70px;
+    }
+ #quote_1 h3 {
+        padding: 65px 5px 25px 5px!important;
+    font-size: 30px!important;
+    line-height: 40px!important;
+}
+    #quote_2 h3, #quote_3 h3 {
+        padding: 65px 70px 25px 70px!important;
+        font-size: 25px!important;
+        line-height: 35px!important;
+    }
+#quote_1 p, #quote_2 p, #quote_3 p {
+    font-size: 17px!important;
+}
+iframe {
+    height: 290px!important;
+    margin-top: 70px!important;
+}
+#home_contact h2 {
+        font-size: 40px!important;
+    }
+#home_contact p {
+        font-size: 15px!important;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 45px;
+    line-height: 25px!important;
+    }
+    input[type=text], select, textarea {
+        font-size: 15px;
+    }
+    input[type=submit] {
+        font-size: 15px;
+    }
+ .footer p {
+        font-size: 10px;
+    }
+ /*Experience*/
+ table {
+        width: 88%!important;
+    }
+    td {
+        line-height: 25px!important;
+        font-size: 15px!important;
+    }
+ #quote_2, #quote_3 {
+        margin-top: 100px;
+    }
+ #contact_text {
+     padding-top: 20px;
+ }
+#contact_text h3 {
+        font-size: 15px;
+    }
+/*Education*/
+#edu_1 h3, #edu_2 h3, #edu_3 h3, #edu_4 h3, #edu_5 h3, #edu_6 h3 {
+        font-size: 20px;
+    margin-top: 0;
+    }
+#edu_1 p, #edu_2 p, #edu_3 p, #edu_4 p, #edu_5 p, #edu_6 p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+ .edu_row_1 {
+     margin-top: 70px;
+ }
+ .edu_row_2 {
+     margin-top: 5px;
+ }
+ .edu_column {
+     padding: 10px;
+ }
+ .edu_row_1, .edu_row_2 {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+#edu_1, #edu_2, #edu_3, #edu_4, #edu_5, #edu_6 {
+        height: 400px!important;
+    }
+/*Interests*/
+ #int_1_img img, #int_2_img img, #int_3_img img, #int_4_img img {
+        height: 300px!important;
+        width: 300px!important;
+    }
+    #int_1_img, #int_2_img, #int_3_img, #int_4_img {
+        margin-left: 110px!important;
+        margin-top: 70px;
+    }
+    #int_1_text, #int_2_text, #int_3_text, #int_4_text {
+        margin-right: 110px!important;
+        width: 45%!important;
+        height: 258px!important;
+        padding: 21px!important;
+        margin-top: 70px;
+    }
+#int_1_text h3, #int_2_text h3, #int_3_text h3, #int_4_text h3 {
+        font-size: 27px;
+        margin: 10px 15px;
+    }
+#int_1_text p, #int_2_text p, #int_3_text p, #int_4_text p {
+        margin: 15px 17px;
+    font-size: 15px;
+    line-height: 25px;
+    }
+/*Contact*/
+ #contact_intro p, #socials_2 p {
+        font-size: 15px!important;
+        line-height: 25px!important;
+     padding-left: 130px;
+     padding-right: 130px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
+    body, html {
+        width: 100%;
+        overflow-x: hidden;
+    }
+    .hero-image-home, .hero-image-exp, .hero-image-edu, .hero-image-vol, .hero-image-interests, .hero-image-contact {
+        height: 45%!important;
+    }
+    ul {
+        display: none;
+    }
+    #socials_1 {
+        padding-right: 5px;
+    }
+    #socials_1 ul {
+        display: -webkit-inline-box;
+        font-size: 20px;
+    }
+    #socials_1 .fa {
+        padding: 15px;
+        width: 20px;
+    }
+    .hero-text {
+        width: 85%;
+    }
+    .hero-text h3 {
+        font-size: 20px!important;
+    }
+    #about_img img {
+        height: 500px!important;
+        width: 500px!important;
+    }
+    #about_img {
+        width: 100%;
+        margin-top: 80px;
+        margin-left: 130px;
+        margin-bottom: 80px;
+    }
+    #about_text {
+        margin-top: -4px;
+        width: 100%;
+        height: auto;
+        margin-bottom: 70px;
+        margin-right: 0;
+        padding: 30px;
+    }
+    #about_text h2 {
+        text-align: center;
+        padding-left: 40px!important;
+        font-size: 40px!important;
+    }
+    #about_text p {
+        text-align: center;
+        font-size: 20px!important;
+        line-height: 30px!important;
+        padding-left: 50px;
+    }
+    #can_do_intro p {
+        padding-left: 50px!important;
+        padding-right: 50px!important;
+        font-size: 20px!important;
+        line-height: 30px!important;
+    }
+    .can_do_row {
+        display: inline-block;
+        margin-top: -40px;
+    }
+    .can_do_column {
+        margin-top: 50px;
+    }
+     .can_do_column img {
+        width: 500px;
+        height: 500px;
+         margin-top: 80px;
+        margin-left: 65px;
+        margin-bottom: 80px;
+    }
+    #can_do_1, #can_do_2, #can_do_3 {
+        width: 100%!important;
+        padding: 31px;
+        height: auto;
+        float: right;
+    }
+    #can_do_1 h3, #can_do_2 h3, #can_do_3 h3 {
+        font-size: 35px!important;
+    }
+    #can_do_intro h2 {
+        font-size: 40px!important;
+    }
+    #quote_2, #quote_3 {
+        margin-top: 80px;
+        margin-bottom: 30px;
+    }
+    #quote_1 {
+        margin-top: 100px;
+        margin-bottom: 100px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    #quote_1 h3 {
+        padding: 80px 0 40px 0;
+        font-size: 30px!important;
+        line-height: 45px!important;
+    }
+    #quote_2 h3 {
+        padding: 80px 50px 40px 50px;
+        font-size: 28px!important;
+        line-height: 40px!important;
+    }
+    #quote_3 h3 {
+        padding: 80px 70px 40px 70px;
+        font-size: 28px!important;
+        line-height: 40px!important;
+    }
+    #quote_1 p, #quote_2 p, #quote_3 p {
+        font-size: 20px!important;
+    }
+    iframe {
+        height: 365px!important;
+        margin-top: 20px!important;
+        width: 1500px!important;
+    }
+    #home_contact h2 {
+        font-size: 40px!important;
+    }
+    #home_contact p {
+        font-size: 20px!important;
+        line-height: 30px!important;
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+    #home_contact {
+        margin-top: 100px;
+    }
+    input[type=text], select, textarea {
+        font-size: 20px!important;
+    }
+    input[type=submit] {
+        font-size: 20px!important;
+    }
+    .container {
+        width: 75%;
+        font-size: 20px!important;
+        margin-bottom: 70px;
+    }
+    /*Experience*/
+    table {
+        width: 87%;
+        margin: 80px auto;
+    }
+    td {
+        line-height: 23px;
+        font-size: 17px;
+    }
+    #contact_text {
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+    #contact_text h3 {
+        font-size: 20px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    /*Education*/
+    .edu_row_1, .edu_row_2 {
+        display: inline-block;
+    }
+    .edu_row_2 {
+        margin-top: 0;
+    }
+    #edu_1, #edu_2, #edu_3, #edu_4, #edu_5, #edu_6 {
+        height: auto!important;
+    }
+    #edu_1 p, #edu_2 p, #edu_3 p, #edu_4 p, #edu_5 p, #edu_6 p {
+        font-size: 20px!important;
+        line-height: 30px!important;
+    }
+    #edu_1 h3, #edu_2 h3, #edu_3 h3, #edu_4 h3, #edu_5 h3, #edu_6 h3 {
+        font-size: 30px!important;
+        margin-top: 0;
+    }
+    /*Interests*/
+    #int_1_img, #int_2_img, #int_3_img, #int_4_img {
+        width: 500px;
+        height: 500px;
+        margin-top: 80px;
+        margin-left: 65px;
+        margin-bottom: 80px;
+    }
+    #int_1_img img, #int_2_img img, #int_3_img img, #int_4_img img {
+        height: 500px!important;
+        width: 500px!important;
+    }
+    #int_1_text, #int_2_text, #int_3_text, #int_4_text {
+        width: 92%!important;
+        padding: 35px;
+        height: auto!important;
+        margin-top: 0;
+        margin-right: 0!important;
+    }
+    #int_1_text h3, #int_2_text h3, #int_3_text h3, #int_4_text h3 {
+        font-size: 35px!important;
+        text-align: center;
+        margin-top: -3px;
+    }
+    #int_1_text p, #int_2_text p, #int_3_text p, #int_4_text p {
+       font-size: 20px!important;
+      text-align: center;
+        line-height: 30px!important;
+    }
+    #interest_4 {
+        margin-bottom: 350px;
+    }
+    /*Contact*/
+    #contact_intro p {
+        font-size: 15px!important;
+        line-height: 25px!important;
+        padding: 0 70px 0 70px!important;
+    }
+    #socials_2 {
+        text-align: center;
+        padding: 0 50px 50px 50px;
+        }
+    #socials_2 p {
+        font-size: 15px!important;
+    }
+}
+
+/*iPhone 6, 7 and 8*/
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
+
+/*Home*/
+ul {
+    display: none;
+}
+.hero-text {
+    top: 48%;
+}
+.hero-text h1 {
+    font-size: 60px;
+    line-height: 60px;
+}
+    .hero-text h3 {
+        font-size: 16px;
+        line-height: 27px;
+    }
+    #about_img {
+        margin: auto;
+        margin-top: 80px;
+    }
+    #about_img img {
+        height: 375px;
+        width: 375px;
+    }
+    #about_text {
+        height: auto;
+        padding: 20px;
+        width: 90%;
+        margin: -5px auto 60px auto;
+      }
+    #about_text h2 {
+        font-size: 35px;
+        text-align: left;
+        margin: 10px 7px;
+    }
+   #about_text p {
+        font-size: 15px;
+        line-height: 25px;
+       text-align: left;
+       margin: 20px 10px;
+    }
+    p {
+        font-size: 15px;
+        line-height: 25px;
+        text-align: center;
+    }
+    #can_do_intro {
+        width: 90%;
+        margin: auto;
+    }
+    #can_do_intro h2 {
+        font-size: 35px;
+        text-align: left;
+        margin: 10px 5px 30px 5px;
+        }
+    #can_do_intro p {
+        font-size: 15px;
+        line-height: 25px;
+        padding: 0;
+        text-align: left;
+        margin: 10px 7px;
+    }
+    .can_do_row {
+        display: inline-block;
+        margin: 20px 0 0 0;
+        }
+    .can_do_column {
+        padding: 0;
+    }
+    .can_do_column img {
+        width: 100%;
+        margin-top: 30px;
+     }
+    #can_do_1, #can_do_2, #can_do_3 {
+        width: 81%;
+        height: auto;
+    }
+    #can_do_1 p, #can_do_2 p, #can_do_3 p {
+        font-size: 15px;
+        line-height: 25px;
+        text-align: left;
+    }
+    #can_do_1 h3, #can_do_2 h3, #can_do_3 h3 {
+        text-align: left;
+    }
+    button {
+        font-size: 15px!important;
+    }
+    #quote_1, #quote_2, #quote_3 {
+   padding: 30px!important;
+        height: auto;
+    }
+    #quote_1 {
+        margin-top: 70px!important;
+    }
+    #quote_1 h3 {
+        font-size: 25px!important;
+        line-height: 35px!important;
+        padding: 0!important;
+    }
+    #quote_2 h3, #quote_3 h3 {
+        font-size: 20px!important;
+        line-height: 30px!important;
+        padding: 0!important;
+    }
+    #quote_1 p, #quote_2 p, #quote_3 p {
+        font-size: 15px!important;
+        padding-top: 20px;
+        padding-bottom: 0;
+     }
+    iframe {
+   display: none;
+    }
+    #home_contact {
+        margin-top: 70px;
+    }
+    #home_contact h2 {
+        font-size: 35px!important;
+        text-align: left;
+        margin: 0 35px 50px 33px;
+    }
+    #home_contact p {
+        text-align: left;
+        margin: -20px 35px 50px 35px;
+        padding: 0;
+        font-size: 15px!important;
+        line-height: 25px!important;
+    }
+    .container {
+        font-size: 15px;
+        width: 89%;
+    }
+    input[type=text], select, textarea {
+        font-size: 15px!important;
+    }
+    input[type=submit] {
+        font-size: 15px!important;
+    }
+    #socials_2 {
+        font-size: 23px;
+        padding: 45px;
+    }
+    .footer p {
+        font-size: 13px!important;
+    }
+    /*Experience*/
+    .hero-image-exp, .hero-image-edu {
+        background-position: right;
+    }
+table {
+    margin: 50px auto;
+    width: 100%;
+}
+td {
+    font-size: 15px!important;
+}
+    #quote_2 {
+        margin-top: -30px;
+    }
+    #quote_2 h3 {
+        padding: 65px 35px 25px 40px;
+    }
+    #contact_text h3 {
+        font-size: 15px!important;
+        line-height: 25px;
+        margin: 0 20px;
+    }
+    #contact_text button {
+        font-size: 15px!important;
+    }
+td:nth-child(1) {
+    display: inline-block;
+    width: 100%;
+}
+td:nth-child(2) {
+    display: inline-block;
+    margin-bottom: 20px;
+}
+/*Education*/
+    .edu_row_1, .edu_row_2 {
+        display: inline-block;
+        width: 100%;
+    }
+    .edu_row_1 {
+        margin: 50px auto 0 auto;
+    }
+    .edu_row_2 {
+        margin: 0 auto;
+    }
+    #edu_1, #edu_2, #edu_3, #edu_4, #edu_5, #edu_6 {
+        padding: 30px;
+        height: auto!important;
+    }
+    #edu_1 h3, #edu_2 h3, #edu_3 h3, #edu_4 h3, #edu_5 h3, #edu_6 h3 {
+        font-size: 20px!important;
+    }
+    #edu_1 p, #edu_2 p, #edu_3 p, #edu_4 p, #edu_5 p, #edu_6 p {
+        font-size: 15px !important;
+    }
+    #quote_3 {
+    margin-top: 40px;
+    }
+}
+    /*Interests*/
+    #int_1_img img, #int_2_img img, #int_3_img img, #int_4_img img {
+        height: 375px!important;
+        width: 375px!important;
+    }
+    #int_1_img, #int_2_img, #int_3_img, #int_4_img {
+        margin-left: 0!important;
+        margin-top: 50px;
+    }
+    #int_1_text, #int_2_text, #int_3_text, #int_4_text {
+        margin: -5px 0!important;
+        width: 87% !important;
+        height: auto!important;
+        padding: 25px!important;
+        }
+    #int_1_text h3, #int_2_text h3, #int_3_text h3, #int_4_text h3 {
+        font-size: 25px!important;
+        margin: 10px 9px!important;
+    }
+    #int_1_text p, #int_2_text p, #int_3_text p, #int_4_text p {
+        font-size: 15px!important;
+        line-height: 25px!important;
+        text-align: left;
+        margin: 20px 10px!important;
+    }
+
+    /*Contact*/
+    #contact_intro p, #socials_2 p {
+        font-size: 15px!important;
+        line-height: 25px!important;
+        padding: 0 40px 10px 40px;
+      }
+    #contact_intro {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+   }
+
+@media only screen and (min-device-width: 414px) and (max-device-width: 896px)
+{
+    /*Home*/
+    .hero-image-home, .hero-image-exp, .hero-image-edu, .hero-image-vol, .hero-image-interests, .hero-image-contact {
+        height: 50%;
+    }
+    .hero-text h3 {
+        font-size: 17px;
+    }
+    #about_img img {
+        height: 100%;
+        width: 100%;
+    }
+    #about_text p {
+        font-size: 17px;
+    }
+    #about_text h2 {
+        font-size: 37px;
+    }
+    #can_do_intro h2 {
+        font-size: 37px;
+    }
+    #can_do_intro p {
+        font-size: 17px;
+    }
+    #can_do_1 p, #can_do_2 p, #can_do_3 p {
+        font-size: 17px;
+    }
+    #can_do_1 h3, #can_do_2 h3, #can_do_3 h3 {
+        font-size: 32px;
+    }
+    #can_do_1, #can_do_2, #can_do_3 {
+        width: 83%;
+    }
+    #quote_1 h3, #quote_2 h3, #quote_3 h3 {
+        font-size: 23px;
+    }
+    #quote_1 p, #quote_2 p, #quote_3 p {
+        font-size: 17px;
+    }
+    #home_contact h2 {
+        font-size: 37px;
+        margin: 0 35px 30px 33px;
+    }
+    #home_contact p {
+        font-size: 17px;
+    }
+    .container {
+        font-size: 17px;
+    }
+    input[type=text], select, textarea {
+        font-size: 17px;
+    }
+    /*Experience*/
+    td:nth-child(1) {
+ font-size: 17px;
+    }
+    /*Education*/
+    #edu_1, #edu_2, #edu_3, #edu_4, #edu_5, #edu_6 {
+        height: auto;
+    }
+    #edu_1 p, #edu_2 p, #edu_3 p, #edu_4 p, #edu_5 p, #edu_6 p {
+        font-size: 17px;
+    }
+    /*Interests*/
+    #int_1_img, #int_2_img, #int_3_img, #int_4_img {
+        margin-left: 0!important;
+    }
+    #int_1_img img, #int_2_img img, #int_3_img img, #int_4_img img {
+        height: 400px!important;
+        width: 413px!important;
+    }
+    #int_1_text h3, #int_2_text h3, #int_3_text h3, #int_4_text h3 {
+        font-size: 27px;
+    }
+    #int_1_text p, #int_2_text p, #int_3_text p, #int_4_text p {
+        font-size: 17px;
+    }
+    #int_1_text, #int_2_text, #int_3_text, #int_4_text {
+        width: 88%!important;
+    }
+    #int_4_text {
+        margin-bottom: 50px!important;
+    }
+    /*Contact*/
+    #contact_intro p, #socials_2 p {
+        font-size: 15px!important;
+    }
+}
+@media screen and (device-width: 360px) and (device-height: 640px) {
+    /*Home*/
+    .hero-image-home, .hero-image-exp, .hero-image-edu, .hero-image-vol, .hero-image-interests, .hero-image-contact {
+        height: 55%;
+    }
+    ul {
+        display: none;
+    }
+    .hero-text {
+        top: 48%;
+        width: 90%;
+    }
+    .hero-text h1 {
+        font-size: 55px;
+        line-height: 55px;
+    }
+    .hero-text h3 {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .hero-image-home {
+        background-position: 30%;
+    }
+    #about_img {
+        margin: 70px 0 0 0;
+    }
+    #about_text {
+        margin-right: 0;
+        height: auto;
+        padding: 12px;
+        width: 93%;
+        margin-top: -5px;
+        margin-bottom: 50px;
+    }
+    #about_text h2 {
+        margin: 10px 22px;
+    }
+    #about_text p {
+        font-size: 15px;
+        line-height: 25px;
+        margin: 25px 25px;
+    }
+    #can_do_intro h2 {
+        font-size: 35px;
+        margin: 0 5px 30px 0;
+    }
+    #can_do_intro p {
+        font-size: 15px;
+        line-height: 25px;
+        padding: 0 38px;
+        text-align: left;
+    }
+    .can_do_row {
+        display: inline;
+    }
+    .can_do_column {
+        padding: 0;
+    }
+    .can_do_column img {
+        width: 100%;
+    }
+    #can_do_1, #can_do_2, #can_do_3 {
+        width: 81%;
+        height: auto;
+    }
+    #can_do_1, #can_do_2 {
+        margin-bottom: 30px;
+    }
+    #can_do_1 h3, #can_do_2 h3, #can_do_3 h3 {
+        font-size: 27px;
+        text-align: left;
+    }
+    #can_do_1 p, #can_do_2 p, #can_do_3 p {
+        font-size: 15px;
+        line-height: 25px;
+        text-align: left;
+        margin-left: 3px;
+    }
+    button {
+        font-size: 15px;
+    }
+    #quote_1 {
+        margin-top: 70px;
+        padding: 0;
+    }
+    #quote_1 h3 {
+         font-size: 25px!important;
+        line-height: 35px!important;
+        text-align: center;
+        padding: 50px 30px 0 30px!important;
+    }
+    #quote_1 p, #quote_2 p, #quote_3 p {
+        text-align: center;
+        font-size: 15px!important;
+        padding: 0 30px 40px 30px!important;
+    }
+    .snapwidget.mobile {
+        display: none;
+    }
+    #home_contact {
+        margin-top: 50px;
+    }
+    #home_contact h2 {
+        font-size: 35px!important;
+        text-align: left;
+        padding-left: 40px;
+    }
+    #home_contact p {
+        font-size: 15px!important;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-bottom: 50px;
+        line-height: 25px!important;
+        text-align: left;
+    }
+    .container {
+        font-size: 15px;
+        width: 88%;
+    }
+    input[type=text], select, textarea {
+        font-size: 15px!important;
+    }
+    input[type=submit] {
+        font-size: 15px!important;
+    }
+    #socials_2 {
+        padding: 35px;
+    }
+    .footer p {
+        font-size: 13px!important;
+    }
+    /*Experience*/
+    .hero-image-exp {
+        background-position: 75%;
+    }
+    table {
+        width: 100%;
+        margin: 50px auto;
+    }
+    td:nth-child(1) {
+        display: inline-block;
+        width: 90%;
+    }
+    td:nth-child(2) {
+        display: inline-block;
+        margin-bottom: 20px;
+        width: 90%;
+    }
+    #quote_2 {
+        margin-top: -30px;
+    }
+    #quote_2 h3, #quote_3 h3 {
+        font-size: 20px!important;
+        line-height: 30px!important;
+        text-align: center;
+        padding: 40px 40px 0 40px!important;
+    }
+     #contact_text h3 {
+        padding: 0 20px 0 20px;
+        font-size: 15px!important;
+        line-height: 25px;
+    }
+    #contact_text button {
+        font-size: 15px!important;
+    }
+    /*Education*/
+    .hero-image-edu {
+        background-position: right;
+    }
+    .edu_row_1, .edu_row_2 {
+        display: inline;
+    }
+    #edu_1, #edu_2, #edu_3, #edu_4, #edu_5, #edu_6 {
+        height: auto!important;
+    }
+    #edu_1 h3, #edu_2 h3, #edu_3 h3, #edu_4 h3, #edu_5 h3, #edu_6 h3 {
+        font-size: 20px!important;
+    }
+    #edu_1 p, #edu_2 p, #edu_3 p, #edu_4 p, #edu_5 p, #edu_6 p {
+        font-size: 15px!important;
+    }
+    #quote_3 {
+        margin-top: 0;
+    }
+    /*Interests*/
+    #int_1_img, #int_2_img, #int_3_img, #int_4_img {
+        margin-left: 0;
+    }
+    #int_1_img img, #int_2_img img, #int_3_img img, #int_4_img img {
+        height: 100%;
+        width: 100%;
+    }
+    #int_1_text, #int_2_text, #int_3_text, #int_4_text {
+        margin-right: 0;
+        width: 86%;
+        height: auto;
+        margin-top: -5px;
+    }
+    #int_1_img {
+        margin-top: 70px;
+    }
+    #int_2_img, #int_3_img, #int_4_img {
+        margin-top: 40px;
+    }
+    #int_4_text {
+        margin-bottom: 50px!important;
+    }
+    /*Contact*/
+    #contact_intro p {
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-top: 30px;
+    }
+    #socials_2 p {
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-top: 10px;
+    }
+}
+
