@@ -728,3 +728,6 @@
 .container, input[type=submit]:hover, input[type=submit], input[type=text], select, textarea, button {
     -webkit-appearance: none;
 }
+select, select:hover {
+    background-color: white;
+}
