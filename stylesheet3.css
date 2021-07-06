@@ -723,6 +723,8 @@
         margin-bottom: 50px;
     }
 
+}
 
-
+.container, input[type=submit]:hover, input[type=submit], input[type=text], select, textarea, button {
+    -webkit-appearance: none;
 }
