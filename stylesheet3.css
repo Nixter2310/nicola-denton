@@ -564,7 +564,7 @@
     }
     #about_img img {
         height: 340px;
-        width: 98%;
+        width: 100%;
         margin-left: 3px;
     }
     #about_text {
@@ -692,7 +692,7 @@
     }
     #int_1_img img, #int_2_img img, #int_3_img img, #int_4_img img {
         height: 340px;
-        width: 98%;
+        width: 100%;
         margin-left: 3px;
     }
     #int_1_text h3, #int_2_text h3, #int_3_text h3, #int_4_text h3 {
@@ -707,7 +707,7 @@
     #int_1_text, #int_2_text, #int_3_text, #int_4_text {
         margin-top: -5px;
     }
-    /*Interests*/
+    /*Contact*/
     #contact_intro p, #socials_2 p {
         font-size: 15px;
         line-height: 27px;
